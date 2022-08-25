@@ -1,26 +1,23 @@
 # Reactive Form
 
----
 
 Use forms in react easily.
 
 ## Installation
 
----
 Run this command in a React project
 ```bash
-npm i @devon/reactive-form
+npm i jibon-reactive-form
 ```
 
 ## Usage
 
----
 ```
 import React from "react";
-import ReactiveForm from '@devon/reactive-form/reactive-form'
-import FormControl from '@devon/reactive-form/form-control'
-import FormGroup from '@devon/reactive-form/form-group-bundle'
-import Validators from '@devon/reactive-form/validators'
+import ReactiveForm from 'jibon-reactive-form/reactive-form'
+import FormControl from 'jibon-reactive-form/form-control'
+import FormGroup from 'jibon-reactive-form/form-group-bundle'
+import Validators from 'jibon-reactive-form/validators'
 
 
 export default class Home extends React.Component{
@@ -44,7 +41,6 @@ export default class Home extends React.Component{
 
 ## Notes:
 
----
 
 ### FormGroup Component
 

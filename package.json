@@ -1,5 +1,5 @@
 {
-  "name": "@devon/reactive-form",
+  "name": "jibon-reactive-form",
   "version": "0.0.1",
   "description": "Reactive forms for react",
   "main": "index.js",
